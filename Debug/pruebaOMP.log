@@ -1,5 +1,4 @@
 ﻿  pruebaOMP.cpp
 C:\Users\ROG1SLP\OneDrive - Robert Bosch GmbH\Maestria\computo en la nube\pruebaOMP\pruebaOMP.cpp(22,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 C:\Users\ROG1SLP\OneDrive - Robert Bosch GmbH\Maestria\computo en la nube\pruebaOMP\pruebaOMP.cpp(23,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\ROG1SLP\OneDrive - Robert Bosch GmbH\Maestria\computo en la nube\pruebaOMP\pruebaOMP.cpp(31,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'double'
   pruebaOMP.vcxproj -> C:\Users\ROG1SLP\OneDrive - Robert Bosch GmbH\Maestria\computo en la nube\pruebaOMP\Debug\pruebaOMP.exe

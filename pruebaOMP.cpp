@@ -4,8 +4,8 @@
 #include <iostream>
 #include <omp.h>
 
-#define N 30
-#define chunk 10
+#define N 1000
+#define chunk 100
 #define mostrar 10
 
 void imprimearreglo(float* d);
@@ -28,7 +28,7 @@ int main()
 	#pragma omp parallel for schedule(static, pedazos) 
 	for (i = 0; i < N; i++) {
 		c[i] = a[i] + b[i];
-		printf("La suma de los 2 arrays en la posicion: c[%d] es igual= %d. Esta operacion se realizo en el hilo %d\n", i, c[i], omp_get_thread_num());
+		printf("La suma de los 2 arrays, procesada en el hilo:%d, en la posicion [%d] es igual= %f\n", omp_get_thread_num(), i, c[i]);
 
 	}
 
@@ -37,7 +37,7 @@ int main()
 	imprimearreglo(a);
 	std::cout << "Imprimiendo los primeros " << mostrar << " valores del arreglo b: " << std::endl;
 	imprimearreglo(b);
-	std::cout << "Imprimiendo los primeros " << mostrar << " valores del arreglo c (La suma vertical de ellos): " << std::endl;
+	std::cout << "Imprimiendo los primeros " << mostrar << " valores del arreglo c (suma vertical de a + b): " << std::endl;
 	imprimearreglo(c);
 	}
 		
