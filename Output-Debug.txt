@@ -1,0 +1,165 @@
+﻿'pruebaOMP.exe' (Win32): Loaded 'C:\Users\ROG1SLP\OneDrive - Robert Bosch GmbH\Maestria\computo en la nube\pruebaOMP\Debug\pruebaOMP.exe'. Symbols loaded.
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\ProgramData\Symantec\Symantec Endpoint Protection\14.3.8268.5000.105\Data\Sysfer\x86\sysfer.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcomp140d.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: Regex::BadPattern at memory location 0x006FE5D8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+Exception thrown at 0x7714E292 in pruebaOMP.exe: Microsoft C++ exception: SysferException at memory location 0x006FE0F8.
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\psapi.dll'. 
+The thread 0x5158 has exited with code 0 (0x0).
+Debug Assertion Failed!
+
+Program: ...mbH\Maestria\computo en la nube\pruebaOMP\Debug\pruebaOMP.exe
+File: minkernel\crts\ucrt\src\appcrt\heap\debug_heap.cpp
+Line: 908
+
+Expression: is_block_type_valid(header->_block_use)
+
+For information on how your program can cause an assertion
+failure, see the Visual C++ documentation on asserts.
+
+(Press Retry to debug the application)
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. Module was built without symbols.
+'pruebaOMP.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\kernel.appcore.dll'
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\user32.dll'. Module was built without symbols.
+'pruebaOMP.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\user32.dll'
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\user32.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\win32u.dll'. Module was built without symbols.
+'pruebaOMP.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\win32u.dll'
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\win32u.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32.dll'. Module was built without symbols.
+'pruebaOMP.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\gdi32.dll'
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32full.dll'. Module was built without symbols.
+'pruebaOMP.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\gdi32full.dll'
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32full.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp_win.dll'. Module was built without symbols.
+'pruebaOMP.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\msvcp_win.dll'
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp_win.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbase.dll'. Module was built without symbols.
+'pruebaOMP.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\ucrtbase.dll'
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbase.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\imm32.dll'. Module was built without symbols.
+'pruebaOMP.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\imm32.dll'
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\imm32.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\TextShaping.dll'. Module was built without symbols.
+'pruebaOMP.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\TextShaping.dll'
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\TextShaping.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\uxtheme.dll'. Module was built without symbols.
+'pruebaOMP.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\uxtheme.dll'
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\uxtheme.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\combase.dll'. Module was built without symbols.
+'pruebaOMP.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\combase.dll'
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\combase.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msctf.dll'. Module was built without symbols.
+'pruebaOMP.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\msctf.dll'
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msctf.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\oleaut32.dll'. Module was built without symbols.
+'pruebaOMP.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\oleaut32.dll'
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\oleaut32.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. Module was built without symbols.
+'pruebaOMP.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\TextInputFramework.dll'. Module was built without symbols.
+'pruebaOMP.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\TextInputFramework.dll'
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\TextInputFramework.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\CoreMessaging.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ws2_32.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\CoreUIComponents.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\SHCore.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntmarta.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\WinTypes.dll'. 
+'pruebaOMP.exe' (Win32): Loaded 'C:\Windows\SysWOW64\WinTypes.dll'. 
+'pruebaOMP.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\WinTypes.dll'
+The thread 0x5b30 has exited with code 0 (0x0).
+The thread 0x1678 has exited with code 0 (0x0).
+The thread 0x3d5c has exited with code 0 (0x0).
+The thread 0x6ae4 has exited with code 0 (0x0).
+The thread 0x6f70 has exited with code 0 (0x0).
+The thread 0x12b8 has exited with code 0 (0x0).
+The thread 0x6c20 has exited with code 0 (0x0).
+The thread 0x50b4 has exited with code 0 (0x0).
+The thread 0x66bc has exited with code 0 (0x0).
+The thread 0x2e0c has exited with code 0 (0x0).
+The thread 0x6388 has exited with code 0 (0x0).
+The thread 0x4dbc has exited with code 0 (0x0).
+The thread 0x560 has exited with code 0 (0x0).
+The thread 0x6cc0 has exited with code 0 (0x0).
+The thread 0x723c has exited with code 0 (0x0).
+The program '[25528] pruebaOMP.exe' has exited with code 0 (0x0).
